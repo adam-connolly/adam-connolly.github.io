@@ -1,0 +1,23 @@
+h1, h4 {
+    background-color: black;
+    color: white;
+    font-variant: small-caps;
+}
+h1{
+    font-weight: bold;
+}
+nav{
+    background-color: black;
+    color: white;
+}
+img {
+    border-radius: 50%;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+div.col-md-4{
+    font-variant: small-caps;
+}
